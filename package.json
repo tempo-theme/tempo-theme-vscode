@@ -3,7 +3,7 @@
     "displayName": "Tempo Theme",
     "description": "",
     "version": "0.0.1",
-    "publisher": "tempo theme",
+    "publisher": "tempotheme",
     "repository": {
         "type": "git",
         "url": "https://github.com/tempo-theme/tempo-theme-vscode.git"
@@ -17,7 +17,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Tempo Color",
+                "label": "Tempo Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Tempo Color-color-theme.json"
             }
