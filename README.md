@@ -5,18 +5,7 @@ A dark Visual Studeio Code theme made by [Tempo](https://tempo.io), featuring ou
 ![screenshot](https://tempo-theme.github.io/tempo-theme-intro/assets/screenshots/tempo-theme-screenshot.png)
 
 ## Installation
-To install the Tempo Theme, open a terminal and type:
-```shell
-apm install tempo-theme
-```
-or
-**Via Atom**
-  1. Open *File > Settings > Install*
-  2. Type `tempo-theme` and set the filter to *Themes*
-  3. Find and install theme
-**Activate theme**
-  1. Open *File > Settings > Themes*
-  2. Select `tempo-theme` from the *UI Theme* drop-down menu
+This extension is available in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=tempotheme.tempo-theme)  
 
 ## Screenshots
 You can use the Tempo theme with the most popular languages, including:

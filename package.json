@@ -2,7 +2,7 @@
     "name": "tempo-theme",
     "displayName": "Tempo Theme",
     "description": "",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "tempotheme",
     "repository": {
         "type": "git",
@@ -14,6 +14,7 @@
     "categories": [
         "Themes"
     ],
+    "icon": "tempo_badge.png",
     "contributes": {
         "themes": [
             {
