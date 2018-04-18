@@ -1,0 +1,12 @@
+{
+	"tokenColors": "./Tempo.tmTheme",
+	"colors": {
+		"editor.background": "#0B1F2D",
+		"editorCursor.foreground": "#ddbb88",
+		"editor.foreground": "#C3CACE",
+		"editorWhitespace.foreground": "#88959E",
+		"editor.lineHighlightBackground": "#146F99",
+		"editor.selectionBackground": "#146F99"
+	},
+	"name": "Tempo Color"
+}
